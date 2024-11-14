@@ -1,0 +1,9 @@
+body{background-color: black;}
+h1{color: white;
+font-style: italic;
+font-size: 50px;}
+h2{color: aqua;
+font-style: oblique;
+border-width: 50px;
+border-color: rgb(217, 255, 0);
+box-shadow: rgb(12, 28, 206) 20px 15px 20px 15px;}

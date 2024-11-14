@@ -1,0 +1,14 @@
+button{background-color: aqua;
+/* this is chaning the button backround */
+border-color:black
+/* changing the border color */
+border-radius 100px;
+/* changing boder radius */
+width: 100px;
+/* chaning width */
+height: 150px
+/* chaning height */
+ }
+ body{background-color: red;}
+ /* chaning the nackround color of the website */
+ 

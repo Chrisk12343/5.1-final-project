@@ -1,0 +1,16 @@
+body{background-image:url(sky.jfif);
+background-repeat: no-repeat;
+background-size: cover;
+}
+header{color:black;
+    font-size: 50px;
+font-style: italic;}
+p{color: blueviolet;}
+button{border: black;
+background-color: rgb(255, 115, 0);
+width: 75px;
+height: 75px;
+border-radius: 60px;
+font-style: inherit;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

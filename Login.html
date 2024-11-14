@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- christopher krawczyk, 3.2 user input assingment -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>login</title>
+    <script src = "function validate().js"></script>
+    <link  rel="stylesheet" href = "color.css"/>
+</head>
+<body>
+   <center> <h1> Welcome to Login Site</h1></center> 
+<form id ="inputForm" onsubmit = "return false">
+    First name:  <input type = "text"  id = "initString"/>
+    <!-- this is where the strings are created -->
+    <br>
+    Last Name:  <input type = "text" id = "str2"/>
+    Zip Code:  <input type = "number" id = "firstNum"/>
+    <br>
+    <input type = "submit" onclick = "validate()"/>
+    <center>
+   <audio controls>
+        
+        <source src="sounds/wind.mp3"> </source> 
+    </audio>
+</center>
+</form>
+<p1 id = "inputStatus">Status of Full name</p1>
+<p id = "numberinputstatus">Status of Zip Code</p>
+<!-- this is where the final status goes on the page -->
+
+</body>
+</html>
